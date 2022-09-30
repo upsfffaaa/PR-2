@@ -1,0 +1,15 @@
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\Практическая 2 - 3 программы.csproj.AssemblyReference.cache
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\Практическая 2 - 3 программы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\Практическая 2 - 3 программы.AssemblyInfoInputs.cache
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\Практическая 2 - 3 программы.AssemblyInfo.cs
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\Практическая 2 - 3 программы.csproj.CoreCompileInputs.cache
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\bin\Debug\net6.0\Практическая 2 - 3 программы.exe
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\bin\Debug\net6.0\Практическая 2 - 3 программы.deps.json
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\bin\Debug\net6.0\Практическая 2 - 3 программы.runtimeconfig.json
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\bin\Debug\net6.0\Практическая 2 - 3 программы.dll
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\bin\Debug\net6.0\Практическая 2 - 3 программы.pdb
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\Практическая 2 - 3 программы.dll
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\refint\Практическая 2 - 3 программы.dll
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\Практическая 2 - 3 программы.pdb
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\Практическая 2 - 3 программы.genruntimeconfig.cache
+C:\Users\Fergan\Desktop\работы\с#\Практическая 2 - 3 программы\Практическая 2 - 3 программы\obj\Debug\net6.0\ref\Практическая 2 - 3 программы.dll
